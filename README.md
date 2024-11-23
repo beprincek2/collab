@@ -43,12 +43,6 @@
    - Create a `.env.local` file in the root directory.  
    - Add the necessary keys for your database and authentication.  
 
-   Example:  
-   ```bash  
-   DATABASE_URL=<your-database-url>  
-   FIREBASE_API_KEY=<your-firebase-api-key>  
-   ```  
-
 4. Start the development server:  
    ```bash  
    npm run dev  
